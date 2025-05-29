@@ -1,4 +1,24 @@
 body{
-    background-color: rgb(24, 105, 28);
+    background-color: #b7dab1;
     text-align: center;
+}
+div{
+    text-align: center;
+    background-color: #0b4a21;
+    box-shadow: 10px 5px 5px #131b16;
+    border-radius: 10PX;
+    width: 350px;
+    height: 135px;
+    display: inline-block;
+    margin-top: 300px;
+}
+#botao{
+    background-color: #547035;
+    border-radius: 50px;
+}
+#altura{
+    border-radius: 50px;
+}
+#peso{
+    border-radius: 50px;
 }
